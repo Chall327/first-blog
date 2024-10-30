@@ -6,3 +6,6 @@ This is a simple blog that asks you to sign in to the website, create an article
 This app is stored on firebase too
 
 Worked on by Charles Hall
+
+hosting link: https://cool-blog-hw.web.app
+
